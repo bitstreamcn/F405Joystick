@@ -1,0 +1,9 @@
+../Drivers/Board/Board.c:45:6:board_init	1
+../Drivers/Board/Board.c:50:6:Radio_SPI_Callback	2
+../Drivers/Board/Board.c:60:19:Radio_SPI_ReadWrite	4
+../Drivers/Board/Board.c:83:19:Radio_Read_Reg	4
+../Drivers/Board/Board.c:112:19:Radio_Write_Reg	4
+../Drivers/Board/Board.c:141:6:HAL_SPI_TxRxCpltCallback	2
+../Drivers/Board/Board.c:149:6:printf_dma	1
+../Drivers/Board/Board.c:157:5:_write	11
+../Drivers/Board/Board.c:224:6:HAL_UART_TxCpltCallback	53
